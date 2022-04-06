@@ -4,4 +4,4 @@ With data gathered from the [Humanitarian Data Exchange](https://data.humdata.or
 I was shocked at the number of airports that are located in the United States, as I was unaware there was so many. I am unsure of what differentiates an airport from being deemed large or medium but each classification was given a different marker color on the final map. When you click on an airport marker, it will tell you the name of the airport.
 
 The choropleth component of this map helps users visualize the amount of medium and large airports located in each state. With differences in red shading, darker equals more airports per state.
-The basemap for this map was acquired from [leaflet provider demo].(https://leaflet-extras.github.io/leaflet-providers/preview/)
+The basemap for this map was acquired from [leaflet provider demo](https://leaflet-extras.github.io/leaflet-providers/preview/).
